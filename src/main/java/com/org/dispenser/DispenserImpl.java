@@ -323,7 +323,7 @@ public class DispenserImpl {
 	 * Show the drinks
 	 * 
 	 * @param names
-	 * @param prices
+	 * @param price
 	 */
 	public static void showDrinks(String[][] names, double[][] prices, int [][] amount) {
 
